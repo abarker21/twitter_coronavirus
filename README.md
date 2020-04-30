@@ -1,3 +1,3 @@
 # Coronavirus analysis
 
-This repo analyzes the activity of coronavirus hashtags on twitter.
+This repo analyzes the activity of coronavirus hashtags on twitter. It tracks how frequently a number of different hashtags were used in multiple countries around the world as well as a variety of different languages. The hashtags that were used in this repo are: '#코로나바이러스', '#コロナウイルス', '#冠状病毒', '#covid2019', '#covid-2019', '#covid19', '#covid-19', '#coronavirus', '#corona', '#virus', '#flu', '#sick', '#cough', '#sneeze', '#hospital', '#nurse', and '#doctor'. All the results are stored within the viz directory which include two folders, one that shows the freuqency of each hashtag sorted by country and the other by language. 
